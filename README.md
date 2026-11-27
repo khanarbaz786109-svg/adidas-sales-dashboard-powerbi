@@ -1,6 +1,6 @@
 # Adidas Sales Dashboard (Power BI)
 
-An interactive Power BI dashboard that analyzes Adidas sales performance across US states. It helps track revenue, profit and profitability at a glance.
+An interactive Power BI dashboard that analyzes Adidas sales performance across US states, regions, products and retailers. It helps track revenue, profit and profitability at a glance.
 
 ## Key Metrics
 - Total Sales
@@ -26,10 +26,12 @@ An interactive Power BI dashboard that analyzes Adidas sales performance across 
 ![Dashboard](dashboard.png)
 
 ## Key Insights
-- Sales vary clearly across US states and regions, and the map and donut chart show which areas contribute the most revenue.
-- The product and retailer charts show which products and retail partners drive the highest sales.
-- The monthly trend shows how sales change over time and helps spot peak and low periods.
-- Profit Margin alongside Total Sales shows whether higher sales also lead to higher profitability.
+- The business generated about $899.9M in total sales and $332.13M in profit, with 18M units sold and a 42.30% profit margin.
+- Sales peak in July ($95M) and August ($92M) and are lowest in March ($57M), which suggests strong summer demand.
+- The West region leads with 29.97% of total sales, followed by the Northeast (20.7%) and Southeast (18.13%).
+- California, Texas, Florida and New York are the top-performing states on the map.
+- Men's Street Footwear is the best-selling product ($0.21bn), followed by Women's Apparel ($0.18bn) and Men's Athletic Footwear ($0.15bn).
+- West Gear ($0.24bn) and Foot Locker ($0.22bn) are the top retailers, ahead of Sports Direct ($0.18bn).
 
 ## Files
 - `project.pbix`: Power BI report (open with Power BI Desktop)
